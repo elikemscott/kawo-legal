@@ -1,0 +1,43 @@
+.bar{
+    background-color: rgba(49, 12, 12, 0.76);
+    border: none;
+    border-radius: 0;
+}
+
+.bar .navbar-nav > .active > a {
+    color: #f71313;
+    border:2px rgba(238, 13, 13, 0.7) solid;
+    background-color: rgba(49, 12, 12, 0.2);
+}
+
+.navbar-default .bar > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: rgba(49, 12, 12, 0.7);
+
+}
+.bar .navbar-nav > li > a {
+    color: #f71313;
+}
+
+.input-form{
+    width: 570px;
+}
+
+.footer{
+    background-color: rgba(49, 12, 12, 0.9);
+    height: 60px;
+    color: white;
+    position: relative;
+    top: 340px;
+}
+.social-media-icons{
+    float: right;
+    position: absolute;
+    right: 40px;
+    bottom: 12px;
+    color: rgb(67, 67, 221);
+}
+.copyrights{
+    position: absolute;
+    left: 40px;
+    top: 20px;
+}

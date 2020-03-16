@@ -1,0 +1,70 @@
+.background_picture{
+    background-image: url(../austin-distel-mpN7xjKQ_Ns-unsplash.jpg);
+    background-size: 1990px;
+   
+    
+    
+}
+.bar{
+    background-color: rgba(49, 12, 12, 0.4);
+    border: none;
+}
+.back{
+    background-size: 1980px;
+    background-color: rgba(49, 12, 12, 0.6);
+    height: 700px;
+    max-width: 1350px;
+}
+
+.bar .navbar-nav > .active > a {
+    color: #f71313;
+    border:2px rgba(238, 13, 13, 0.7) solid;
+    background-color: rgba(49, 12, 12, 0.2);
+}
+
+.navbar-default .bar > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    background-color: rgba(49, 12, 12, 0.76);
+
+}
+
+.bar .navbar-nav > li > a {
+    color: #f71313;
+}
+
+.logo{
+    position: relative;
+    left: 30px;
+    top: -15px;
+}
+.note{
+    color: white;
+}
+.note_register{
+    position: relative;
+    top: 100px;
+}
+.register-btn{
+    background-color: cornflowerblue;
+    color: white;
+}
+.whitespace{
+    background-color: white;
+    height: 15px;
+}
+.footer{
+    background-color: rgba(49, 12, 12, 0.6);
+    height: 60px;
+    color: white;
+}
+.social-media-icons{
+    float: right;
+    position: absolute;
+    right: 40px;
+    top: 725px;
+    color: rgb(67, 67, 221);
+}
+.copyrights{
+    position: absolute;
+    left: 40px;
+    top: 725px;
+}
